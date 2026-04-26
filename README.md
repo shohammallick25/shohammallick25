@@ -218,13 +218,6 @@ A modern landing page for a drone-based tech product.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohammallick25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohammallick25&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
----
-
 ## 🎯 Goals
 - 💼 Work with Potentiality  
 - 🤖 Become the INNOVATOR of Dream  
