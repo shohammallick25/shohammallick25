@@ -61,6 +61,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohammallick25&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 📈 Activity Graph (LIVE)
@@ -102,10 +106,6 @@
   <img src="https://github.com/user-attachments/assets/6ae1d27c-f138-42d8-a7d1-eb5147552754" width="70"/>
   <img src="https://github.com/user-attachments/assets/cabc869b-60db-4d68-a1a4-0713cff736ca" width="70"/>
 
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
