@@ -77,8 +77,8 @@
 
 ## 🏆 Achievement Badges
 <p align="center">
-[<img src="https://github-profile-trophy.vercel.app/?username=shohammallick25" />
-](https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/133/original/Time_complexity.svg)  
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/53299670-c06b-480f-a35e-d8fa0bc1e40d" />
+
 </p>
 
 ---
