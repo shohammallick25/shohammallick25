@@ -49,26 +49,112 @@
   <img src="https://img.shields.io/badge/Pinecone-1ABC9C?style=for-the-badge"/>
 </p>
 
----
+------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
-### 🧠 MonBondhu – AI Mental Health Assistant
-- Chat-based emotional AI system  
-- LangChain + LLM integration  
-- Real-time support UI  
+### 🧠 MonBondhu – AI Mental Health Assistant *(Flagship Project)*
+
+An AI-powered emotional support system designed to understand user mood and provide real-time mental health assistance.
+
+* 🤖 Built with LLM + LangChain architecture
+* 🧠 Emotion-aware conversation system
+* 💬 Real-time chat-based UI
+* 🔮 Future plan: memory-based personalization & mood tracking
+
+---
+
+### 🤖 AdvisorGPT – AI Law Knowledge Assistant
+
+A multi-version AI assistant focused on intelligent Q&A and knowledge retrieval.
+
+* 🧩 Developed across multiple versions (v1 → v3)
+* 📚 Context-aware response generation
+* ⚙️ Retrieval-based architecture (RAG concept)
 
 ---
 
 ### 🌐 Portfolio Website
-- Personal branding & project showcase  
+
+A personal branding platform to showcase projects, skills, and achievements.
+
+* 💼 Clean and responsive UI
+* 📱 Mobile-friendly design
+* 🎯 Built for recruiter engagement
 
 ---
 
-### 🏥 DocLab Medical Website
-- Clinic & doctor directory UI  
+### 🏥 DocLab – Medical Website Interface
+
+A modern healthcare UI system for clinics and doctor directories.
+
+* 🩺 Doctor listing and appointment-style layout
+* 🎨 Clean UX with real-world design inspiration
+* 🌍 Practical healthcare use-case
 
 ---
+
+### 🌍 Transverto – Language Translator
+
+A browser-based language translation tool for real-time text conversion.
+
+* 🌐 Multi-language support
+* ⚡ Fast and responsive interface
+* 🧠 Logic-driven implementation
+
+---
+
+### 🎤 Speech-to-Text Editor
+
+A voice-enabled text editor using browser speech recognition.
+
+* 🎙️ Voice input → text output
+* ⚡ Real-time transcription
+* 🛠️ Built using Web Speech API
+
+---
+
+### 🎮 JavaScript Game Projects
+
+A collection of interactive browser-based games demonstrating logic building and UI interaction.
+
+* 🎯 Includes: TicTacToe, Ludo, Flappy Bird
+* 🧠 Core game logic & DOM manipulation
+* 🎮 Focus on user interaction & gameplay
+
+---
+
+### 💼 Business Website Collection
+
+A series of real-world inspired business websites built for practice and UI mastery.
+
+* ☕ Coffee Shop, 🏨 Hotel, ✈️ Travel, 🚗 Car Rental, 🦷 Dental
+* 🎨 Focus on modern UI/UX
+* 📱 Fully responsive designs
+
+---
+
+### ⚙️ Utility Tools Suite
+
+A set of practical tools designed for everyday use.
+
+* 🔳 QR Code Generator
+* 🧾 Barcode Generator
+* 💱 Currency Converter
+* ✅ ToDo App
+
+---
+
+### 🚁 DroneVista – Tech Product Website
+
+A modern landing page for a drone-based tech product.
+
+* 🚀 Product-focused UI design
+* 🎯 Clean branding layout
+* 💻 Responsive frontend
+
+
+----------------------------------------------------
 
 ## 📊 GitHub Stats
 <p align="center">
