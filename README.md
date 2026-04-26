@@ -31,7 +31,22 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,cpp,java,git,github,vscode,figma,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- AI / Data Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
+
+<p align="center">
+  <!-- AI / LLM Stack -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-00E7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-1ABC9C?style=for-the-badge"/>
 </p>
 
 ---
