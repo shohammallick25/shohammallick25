@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Shoham Mallick
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=CSE+Student;Future+AI+Engineer;Web+Developer;Building+impactful+AI;Dream:+Meta+Google+SpaceX" />
+</p>
+
 🚀 Passionate CSE Student from Bangladesh  
 💻 Web Developer | Future AI Engineer  
 🧠 Building impactful AI + Web solutions  
@@ -7,7 +11,7 @@
 ---
 
 ## 🔥 Current Focus
-- 🤖 AI Projects (Mental Health Assistant – MonBondhu)
+- 🤖 AI Projects 
 - 🌐 Full Stack Development
 - 📊 Learning Machine Learning & LLMs
 
