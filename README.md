@@ -77,8 +77,18 @@
 
 ## 🏆 Achievement Badges
 <p align="center">
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/d750dc0b-12a4-4be7-ae32-11dc5b761533" />
 <img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/53299670-c06b-480f-a35e-d8fa0bc1e40d" />
-
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/c91e6b43-3775-4173-84cf-003a448f78d8" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/fffbb03b-d1dc-4721-837f-5a88f5be38fe" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/6d7d784d-fa2b-4d00-85a4-0c5d8808e7fc" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/81d34b6b-d0cb-42dc-8d19-c349078800a4" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/7c612146-f35b-48d7-aadf-c4294aeaa919" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/1ac03467-aa0b-4656-923d-af344452f588" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/f6c962e8-8763-41a8-8df4-1bcd621e3bd9" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/4fc83753-e065-448b-863a-d2d74fb091c4" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/6ae1d27c-f138-42d8-a7d1-eb5147552754" />
+<img width="50" height="68" alt="image" src="https://github.com/user-attachments/assets/cabc869b-60db-4d68-a1a4-0713cff736ca" />
 </p>
 
 ---
