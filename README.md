@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 CSE Student from Bangladesh  
 - 💻 Web Developer → transitioning into AI Engineer  
-- 🧠 Building **MonBondhu – AI Mental Health Assistant**  
+- 🧠 Building **AI products**  
 - ⚡ Love building real-world impactful projects  
 
 ---
