@@ -70,7 +70,17 @@
 ## 📈 Activity Graph (LIVE)
 [![Shoham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shohammallick25&theme=tokyo-night)](https://github.com/shohammallick25)
 
+---------
+## 🌌 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shohammallick25/shohammallick25/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+---------
 
+## 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohammallick25&layout=compact&theme=tokyonight" />
+</p>
 
 ---------
 
@@ -175,22 +185,6 @@ A modern landing page for a drone-based tech product.
 * 🚀 Product-focused UI design
 * 🎯 Clean branding layout
 * 💻 Responsive frontend
-
----
-
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohammallick25&layout=compact&theme=tokyonight" />
-</p>
-
-
-
----
-
-## 🌌 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shohammallick25/shohammallick25/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
 
 ---
 
